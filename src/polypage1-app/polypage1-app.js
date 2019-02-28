@@ -8,7 +8,7 @@ import '@polymer/iron-ajax/iron-ajax.js';
 
 
 
-
+// This is a comment
 
 /**
  * @customElement
